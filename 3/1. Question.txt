@@ -1,0 +1,1 @@
+Write a program to determine students final grade and indicate whether it is passing or failing. The final grade is calculated as the average of marks in four subjects.
