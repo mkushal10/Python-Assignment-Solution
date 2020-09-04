@@ -1,0 +1,1 @@
+Write a program to calculate and display area and perimeter of a rectangle.
