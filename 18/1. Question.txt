@@ -1,0 +1,1 @@
+Write a python script to read an integer greater then 1000 and reverse the number.

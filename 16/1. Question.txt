@@ -1,0 +1,10 @@
+Write a program to print the following pattern
+A
+BC
+DEF
+GHIJ
+KLMNO
+
+
+
+The capital letter A is represented by the number 65 in the ASCII code (65 is 01000001 in binary).

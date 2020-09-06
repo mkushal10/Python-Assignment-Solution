@@ -1,0 +1,1 @@
+Write a program to accept a character from the user and display whether it is vowel or constant.

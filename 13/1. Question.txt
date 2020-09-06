@@ -1,0 +1,1 @@
+Write a program to accept a decimal number and display its binary number.

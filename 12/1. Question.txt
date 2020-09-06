@@ -1,0 +1,1 @@
+Write a program to accept a number and find out whether it is perfect number or not.

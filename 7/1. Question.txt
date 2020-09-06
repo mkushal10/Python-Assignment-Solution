@@ -1,0 +1,1 @@
+Write program to perform tasks to perform the following tasks according to users choice using menu-Area of a circle,area of rectangle, circumference of circle,area of square.

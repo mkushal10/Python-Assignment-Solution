@@ -1,0 +1,1 @@
+Write a program that reads two number and an arithmetic operator and display the result.

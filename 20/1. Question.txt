@@ -1,0 +1,1 @@
+Write a python script to input two numbers and print their LCM and GCD.
